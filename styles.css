@@ -63,3 +63,9 @@
             align-items: center;
             margin-top: 20px;
         }
+         .copy {
+            background-color: #222f3d;
+            color: #df2fc4;
+            text-align: center;
+            padding: 10px 0;
+        }
