@@ -24,3 +24,15 @@
         .nav-links a:hover {
             text-decoration: underline;
         }
+ .logo {
+            width: 34%;
+            text-align: center;
+            color: white;
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .search-box {
+            width: 33%;
+            text-align: right;
+        }
