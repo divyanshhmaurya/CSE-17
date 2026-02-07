@@ -1,0 +1,12 @@
+ body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f1f3f6;
+        }
+        .navbar {
+            background-color: #ff5500;
+            display: flex;
+            align-items: center;
+            padding: 10px 20px;
+            height: 60px;
+        }
