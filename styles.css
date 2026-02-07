@@ -10,3 +10,17 @@
             padding: 10px 20px;
             height: 60px;
         }
+ .nav-links {
+            width: 33%;
+        }
+
+        .nav-links a {
+            color: white;
+            text-decoration: none;
+            margin-right: 15px;
+            font-size: 16px;
+        }
+
+        .nav-links a:hover {
+            text-decoration: underline;
+        }
