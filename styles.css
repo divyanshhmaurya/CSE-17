@@ -115,3 +115,17 @@
             color: green;
             font-weight: bold;
         }
+        button {
+            width: 300px;
+            padding: 10px;
+            background-color: #ff9f00;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #fb641b;
+            color: white;
+        }
