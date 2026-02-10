@@ -69,3 +69,18 @@
             text-align: center;
             padding: 10px 0;
         }
+         .foot-panel2 {
+            background-color: #222f3d;
+            color: white;
+            height: 300px;
+            display: flex;
+            justify-content: space-evenly;
+        ul a{
+                display: block;
+                color: white;
+                font-size: 10px;
+                color: #dddddd;
+                text-decoration: none;
+                margin: 5px 0;
+            }
+        }
